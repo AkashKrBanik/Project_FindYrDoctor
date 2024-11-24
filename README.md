@@ -1,4 +1,4 @@
-# Project_FindYrDoctor_2
+# Project_FindYrDoctor
 This project is made entirely using VB.NET, Guna Framework and MySQL, Xampp database.
 
 Screenshots of the project form for reference:
